@@ -1,4 +1,4 @@
-# Assistente de dúvidas — chatbot-[grupo]
+# Assistente de dúvidas — chatbot-cafecomleite
 
 Projeto e Implementação de Sistemas · Unesp
 
