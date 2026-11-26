@@ -20,13 +20,12 @@ Fiz uma versão **análoga**, com estrutura própria. A principal diferença é 
 | 4 | Entrar no painel | Gestor |
 | 5 | Cadastrar documento | Gestor |
 | 6 | Acompanhar documentos | Gestor |
-| 7 | Reprocessar documento | Gestor |
-| 8 | Excluir documento | Gestor |
-| 9 | Revisar perguntas sem resposta | Gestor |
-| 10 | Processar documento | (interno) |
-| 11 | Recuperar trechos relevantes | (interno) |
-| 12 | Gerar resposta com fontes | Serviço de IA |
-| 13 | Avisar que não encontrou | (interno) |
+| 7 | Excluir documento | Gestor |
+| 8 | Revisar perguntas sem resposta | Gestor |
+| 9 | Processar documento | (interno) |
+| 10 | Recuperar trechos relevantes | (interno) |
+| 11 | Gerar resposta com fontes | Serviço de IA |
+| 12 | Avisar que não encontrou | (interno) |
 
 **Relações:**
 - Perguntar ao Unespão **«include»** Recuperar trechos relevantes.
